@@ -19,6 +19,8 @@ Content-Type: application/json
     "completed": false
 }
 
+
+
 ### Update a Todo
 PUT {{baseUrl}}/api/v1/todos/1
 Content-Type: application/json
